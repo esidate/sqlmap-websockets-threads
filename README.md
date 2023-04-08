@@ -1,4 +1,4 @@
-# sqlmap Websocket Threads
+# SQLmap Websocket Threads
 
 Tool to proxy sqlmap requests to a websocket server, with support for multiple threads.
 
